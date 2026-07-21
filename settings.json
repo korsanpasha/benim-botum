@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "brotula.aternos.host",
+    "ip": "orca.aternos.host",
     "port": 21447,
     "version": "1.20.1",
     "try-creative": false
